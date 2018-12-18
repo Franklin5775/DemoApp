@@ -6,6 +6,7 @@ import { DataRepositoryService } from "../services/data-repository"
   styleUrls: ['../styles/catalog.css'],
   templateUrl: '../templates/catalog.html'
 })
+/*Adding some comment to simulate remote changes.*/
 export class CoursesComponent {
   classes:any[];
   visibleClasses:any[];
