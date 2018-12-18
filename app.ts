@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-    selector: 'my-app',
+    selector: 'my-app-changed',
     styles: [`
       .app {
         width: 1000px;
